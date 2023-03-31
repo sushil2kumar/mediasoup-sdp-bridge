@@ -56,6 +56,6 @@
     "typescript": "~3.8.3"
   },
   "peerDependencies": {
-    "mediasoup": "^3.5.15"
+    "mediasoup": "^3.11.19"
   }
 }
